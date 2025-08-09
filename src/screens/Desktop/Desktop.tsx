@@ -16,12 +16,11 @@ export const Desktop = (): JSX.Element => {
                 <br />
                 <br />
                 Raised in Singapore and educated in the UK, I&apos;ve spent the
-                past decade launching and expanding new technologies across
-                Southeast Asia — from re-architecting the region&apos;s air
-                traffic management systems to building Sea Group&apos;s fintech
+                past decade launching and expanding new technologies — from re-architecting air
+                traffic management systems to building Sea Group&apos;s $300M fintech
                 business in the Philippines. I am currently based in San
-                Francisco where I help Tesla bring next-generation energy
-                products to market.
+                Francisco where I help Tesla deploy next-generation energy
+                products.
               </p>
             </CardContent>
           </Card>
